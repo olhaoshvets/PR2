@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6576e6ed-3ed2-495c-b606-3b1073e690b9" name="Changes" comment="task 2, 3">
-      <change afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6.py" afterDir="false" />
+    <list default="true" id="6576e6ed-3ed2-495c-b606-3b1073e690b9" name="Changes" comment="task 10">
+      <change afterPath="$PROJECT_DIR$/task11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +54,16 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Task1.executor": "Run",
     "Python.task1.executor": "Run",
+    "Python.task10.executor": "Run",
+    "Python.task11.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
     "Python.task6.executor": "Run",
+    "Python.task7.executor": "Run",
+    "Python.task8.executor": "Run",
+    "Python.task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -101,7 +103,47 @@
       <option name="project" value="LOCAL" />
       <updated>1764793078082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 2, 3, 4, 5, 6">
+      <option name="closed" value="true" />
+      <created>1764796602045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764796602045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 7">
+      <option name="closed" value="true" />
+      <created>1764798083540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764798083540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 8">
+      <option name="closed" value="true" />
+      <created>1764798583537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764798583537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task 9">
+      <option name="closed" value="true" />
+      <created>1764799077076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764799077076</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task 10">
+      <option name="closed" value="true" />
+      <created>1764801434257</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764801434257</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +160,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 1" />
     <MESSAGE value="task 2, 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2, 3" />
+    <MESSAGE value="task 2, 3, 4, 5, 6" />
+    <MESSAGE value="task 7" />
+    <MESSAGE value="task 8" />
+    <MESSAGE value="task 9" />
+    <MESSAGE value="task 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 10" />
   </component>
 </project>
